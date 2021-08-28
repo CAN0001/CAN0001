@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @CAN0001
-- 👀 I’m interested in Java,C# and Kotlin with Android.
-- 🌱 I’m currently learning Flutter(Dart).
-- 💞️ I’m looking to collaborate on nobody...
-- 📫 To reach me you can use caner19741@outlook.com
+- Hi, I’m @CAN0001
+- I’m interested in Java,C# and Android.
+- To reach me you can use caner19741@outlook.com
