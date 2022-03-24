@@ -1,3 +1,2 @@
-- Hi, I’m @CAN0001
-- I’m interested in Java,C# and Android.
+- Hi, I’m @ashetian
 - To reach me you can use caner19741@outlook.com
